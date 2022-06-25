@@ -1,5 +1,5 @@
 {
-  "name": "customhooks",
+  "name": "js-customhook",
   "version": "1.0.0",
   "description": "A bucket of custom hooks made for ReactJS projects ",
   "main": "index.js",
@@ -8,6 +8,7 @@
     "url": "git+https://github.com/sandeep-jaiswar/customhooks.git"
   },
   "keywords": [
+    "useCustomhook",
     "customhooks",
     "reactjs",
     "react",
