@@ -1,0 +1,31 @@
+{
+  "name": "customhooks",
+  "version": "1.0.0",
+  "description": "A bucket of custom hooks made for ReactJS projects ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeep-jaiswar/customhooks.git"
+  },
+  "keywords": [
+    "customhooks",
+    "reactjs",
+    "react",
+    "customhook",
+    "useHooks",
+    "useHook",
+    "hooks",
+    "custom"
+  ],
+  "author": "sandeep-jaiswar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeep-jaiswar/customhooks/issues"
+  },
+  "homepage": "https://github.com/sandeep-jaiswar/customhooks#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "type": "module"
+}
